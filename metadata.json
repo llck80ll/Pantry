@@ -1,0 +1,8 @@
+{
+  "name": "Pantry",
+  "description": "Pantry app to generate recipes based on ingredients you have.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
